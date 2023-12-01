@@ -1,4 +1,4 @@
 ### Olá sou o João Guilherme
 
 - 🔭 Hoje estou a procura de um emprego
-- 🌱 Estudando Ruby, Ruby on Rails
+- 🌱 Estudando Javascript, Typescript e React
