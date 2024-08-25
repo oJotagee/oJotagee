@@ -1,4 +1,4 @@
 ### Olá sou o João Guilherme
 
-- 🔭 Hoje estou a procura de um emprego
-- 🌱 Estudando React, Typescript, NodeJS, NextJS
+- 🔭 Atualmente trabalho como desenvolvedor Full Stack, trabalho com Javascript(Jquery), PHP e Mysql.
+- 🌱 Estudando React, Typescript, NodeJS, NextJS, Tailwind.
