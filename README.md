@@ -28,7 +28,7 @@
 
 #### Databases:
 
-![PostgreSQL](https://shields.io/badge/postgre%20sql-black?logo=postgresql&style=for-the-badge)&nbsp;
+![PostgreSQL](https://shields.io/badge/postgresql-black?logo=postgresql&style=for-the-badge)&nbsp;
 ![MongoDB](https://shields.io/badge/mongodb-black?logo=mongodb&style=for-the-badge)&nbsp;
 ![MySQL](https://shields.io/badge/mysql-black?logo=mysql&style=for-the-badge)&nbsp;
 
@@ -41,6 +41,5 @@
 ## Contacts:
 
 <div> 
-
-<a href = "mailto:joaosantos123433@gmail.com"> <img src="https://shields.io/badge/gmail-black?logo=gmail&style=for-the-badge" target="_blank"></a>
+  <a href="mailto:joaosantos123433@gmail.com"> <img src="https://shields.io/badge/gmail-black?logo=gmail&style=for-the-badge" target="_blank"></a>
 </div>&nbsp;&nbsp;
