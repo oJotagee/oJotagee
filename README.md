@@ -34,7 +34,6 @@
 
 #### Tools:
 
-![MySQL](https://shields.io/badge/mysql-black?logo=mysql&style=for-the-badge)&nbsp;
 ![Docker](https://shields.io/badge/docker-black?logo=docker&style=for-the-badge)&nbsp;
 ![Axios](https://shields.io/badge/axios.js-black?logo=axios&style=for-the-badge)&nbsp;
 ![Ubuntu](https://shields.io/badge/ubuntu-black?logo=ubuntu&style=for-the-badge)&nbsp;
