@@ -1,4 +1,4 @@
-### Oiii eu sou o João Guilheme
+### Ola eu sou o João Guilheme
 
 <div>
   <a href='https://www.linkedin.com/in/ojoao-oliveira/' target="_blank">
