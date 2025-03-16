@@ -1,7 +1,7 @@
 ### Ola eu sou o João Guilheme
 
 <div>
-  <a href='https://www.linkedin.com/in/ojoao-oliveira/' target="_blank">
+  <a href='https://www.linkedin.com/in/ojoao-oliveira' target="_blank">
   <img height='180em' src="https://github-readme-streak-stats.herokuapp.com/?user=joao123433&theme=radical&mode=weekly" />
   <img height='180em' src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=joao123433&show_icons=true&theme=dracula&layout=compact" />
 </div>
