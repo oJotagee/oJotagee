@@ -13,17 +13,16 @@
 ![React](https://shields.io/badge/React-black?logo=react&style=for-the-badge)&nbsp; 
 ![Nestjs](https://shields.io/badge/Nest.js-black?logo=nestjs&style=for-the-badge)&nbsp; 
 ![Prisma](https://shields.io/badge/Prisma-black?logo=Prisma&style=for-the-badge)&nbsp; 
-![Nodejs](https://shields.io/badge/Node.js-black?logo=Node.js&style=for-the-badge)&nbsp;
-![Fastify](https://shields.io/badge/Fastify-black?logo=Fastify&style=for-the-badge)&nbsp;
 ![Typescript](https://shields.io/badge/typescript-black?logo=typescript&style=for-the-badge)&nbsp;
-![Drizzle ORM](https://shields.io/badge/drizzle%20ORM-black?logo=drizzle&style=for-the-badge)&nbsp;
 ![Tailwind](https://shields.io/badge/Tailwind_CSS-black?logo=Tailwind-CSS&style=for-the-badge)&nbsp;
 ![Git](https://shields.io/badge/git-black?logo=git&style=for-the-badge)
 
 #### Secondary Stack:
 
-![JavaScript](https://shields.io/badge/JavaScript-black?logo=JavaScript&style=for-the-badge)&nbsp;
-![JavaScript](https://shields.io/badge/express.js-black?logo=express&style=for-the-badge)&nbsp;
+![Nodejs](https://shields.io/badge/Node.js-black?logo=Node.js&style=for-the-badge)&nbsp;
+![Fastify](https://shields.io/badge/Fastify-black?logo=Fastify&style=for-the-badge)&nbsp;
+![Drizzle ORM](https://shields.io/badge/drizzle%20ORM-black?logo=drizzle&style=for-the-badge)&nbsp;
+![Express](https://shields.io/badge/express.js-black?logo=express&style=for-the-badge)&nbsp;
 ![PHP](https://shields.io/badge/PHP-black?logo=PHP&style=for-the-badge)&nbsp;
 ![Java](https://shields.io/badge/java-black?logo=openjdk&style=for-the-badge)&nbsp;
 
